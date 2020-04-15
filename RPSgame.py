@@ -1,3 +1,5 @@
+# to import random module
+import random
 #create a list of play options
 t = ["Rock", "Paper", "Scissors"]
 
